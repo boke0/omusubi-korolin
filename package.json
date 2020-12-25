@@ -1,0 +1,12 @@
+{
+  "name": "omusubi-korolin",
+  "version": "1.0.0",
+  "description": "Omusubi project making command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["omusubi", "webcomponents"],
+  "author": "木瓜丸 <https://boke0.netlify.app/> (https://boke0.netlify.app)",
+  "license": "ISC"
+}
